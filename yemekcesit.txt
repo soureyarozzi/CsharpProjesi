@@ -1,0 +1,22 @@
+
+1000 salata
+1001 cacik
+1002 meneme
+1003 musakka
+1004 makarna
+1005 manti
+1006 mercimekKoftesi
+1007 noodle
+1008 ispanakliYogurt
+1009 dolma
+1010 doner
+1011 pide
+1012 mercimekCorbasi
+1013 mantar
+1014 lahmacun
+1015 bulgurPilavi
+1016 nohut
+1017 kebap
+1018 pasta
+1019 pizza
+1020 asfs
